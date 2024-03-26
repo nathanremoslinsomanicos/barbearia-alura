@@ -45,5 +45,13 @@ h2{
 
 ul{
     display: inlign-block
+    vertical-align: top;
+    width: 20px;
+    margin-right: 15%
+}
 
+.imagem-beneficios{
+    width: 50%
+}
+    
     
