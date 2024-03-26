@@ -9,6 +9,12 @@ body {
 #banner{
    width:100%
      }
+
+
+.principal {
+    backgrund: #cccccc;
+    padding: 30px;
+    }
 h1 {
     text-align: center
 }
@@ -25,3 +31,6 @@ em strong{
     color: #FF0000;
 }
 
+.item{
+    font-style: italic;
+}
