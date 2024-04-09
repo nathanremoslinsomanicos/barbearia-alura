@@ -1,18 +1,21 @@
 header {
 background:#BBBBBB;
+  padding: 20px 0;
 }
-nav li{
+.caixa {
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+         }
+  nav li {
   display: inline;
   margin: 0 0 0 15px;
-}
 nav a {
-  text-transform: uppercase
+  text-transform: uppercase;
   color:#000000;
   font-weight: bold;
   font-size: 22px
   text-decoration: none;
-  }
-salve
   
   
   
