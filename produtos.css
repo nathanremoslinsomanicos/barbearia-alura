@@ -91,6 +91,22 @@ form label, form legend{
     margin: 20px 0;
 }
 
+.enviar{
+        width: 40%;
+        padding: 15px 0;
+        background: purple;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        border: none;
+        border-radios: 5px;
+        transition: 1s alt;
+        curser: pointer;
+    }
+.enviar:hover{
+    background: dark purple;
+    transform: scale(12);
+}
 
 
     
