@@ -168,6 +168,13 @@ td, th {
 	clear: left;
 }
 
+.principal {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 940px;
+	margin: 0 auto;
+}
+
 .principal p {
 	margin: 0 0 1em;
 }
