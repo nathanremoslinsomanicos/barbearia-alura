@@ -195,7 +195,7 @@ td, th {
 
 .imagem-beneficios {
 	width: 60%;
-	opacity: 1%;
+	opacity: 0.3%;
 	transition: 400ms;
 	bo-shadow: 10px 10px 10px 0 #000000;
 }
