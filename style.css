@@ -195,6 +195,13 @@ td, th {
 
 .imagem-beneficios {
 	width: 60%;
+	opacity: 1%;
+	transition: 400ms;
+	bo-shadow: 10px 10px 10px 0 #000000;
+}
+
+.imagem-beneficios:hover{
+	opacity: 0.3;
 }
 
 .conteudo-beneficios{
@@ -208,7 +215,8 @@ td, th {
 	vertical-align: top;
 }
 
-.itens{
+.itens:before{
+	content: "⛧";
 	line-height: 1.5;
 }
 
